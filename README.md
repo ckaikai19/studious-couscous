@@ -39,4 +39,4 @@ THEN I should have proper build scripts for a webpack application
 3. npm start
 
 
-[Deployed App] (https://powerful-sierra-62510.herokuapp.com)  
+[Deployed App](https://powerful-sierra-62510.herokuapp.com)  
